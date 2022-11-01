@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+}
+.head{
+    background-color: crimson;
+    text-align: center;
+    color: aliceblue;
+}
+.i1{
+    height:200px;
+    width:200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYTyt0drai0LeqaczXLRswCn9zUXcw20eJnFnZrsge6G1sY29");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left:20px;
+    margin-right: 40px;
+}
+.t1{
+color: blue;
+padding-top: 300px;
+}
+.i2{
+    height: 300px;
+    width: 300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzCsYacTy_JvkKuapl_geCvBAY4t63E12KZ8uDje4nTtU4cTU");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t2{
+color: blue;
+padding-top: 300px;
+}
+.i3{
+    height: 300px;
+    width: 300px;
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5LXppW2A9ZhgmsnLVFDq4UNubXsJFjrCBNoQ1txXFNczyNqQH");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t3{
+color: blue;
+padding-top: 300px;
+}
+.i4{
+    height: 300px;
+    width: 300px;
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR89frWO9j5ySTQfqislnELLUvkhT6mNXbuR6AdYd05i-I999aT");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 40px;
+}
+.t4{
+color: blue;
+padding-top: 300px;
+}
+.text{
+    text-align:center;
+    padding-top:300px;
+    padding-left:50px;
+    color: blue;
+}
+.box{
+
+    color: rgb(61, 40, 203);
+    float:right;
+    padding-top: 20px;
+    padding-right: 500px;
+}
+.bt2{
+
+    float: right;
+    padding-top: 20px;
+    padding-right: 650px;
+    }
+.button{
+    color: rgb(228, 238, 230);
+    background-color: rgb(25, 0, 255);
+    width: 400px;
+}
+.b1{
+    width: 700px;
+}
+.total{
+    float: right;
+    border: 10px;
+    margin-top: 10px; 
+    margin-right: 750px;
+}
+
+.line{
+    float: left;
+    margin-top: 20px;
+    margin-left: 380px;
+    width: 800px;
+    border-width: 6px;
+    border-top-style: solid;
+ }
+.text1{
+    float: right;
+    margin-top: 10px;
+    padding-right: 710px;
+    font-size: large;
+    color: rgb(6, 160, 24);
+}
